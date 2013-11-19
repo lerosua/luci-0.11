@@ -7,7 +7,7 @@ config wifi-iface
 	option device	wifi0
 	option network	lan
 	option mode	ap
-	option ssid	OpenWrt
+	option ssid	LerBox
 	option encryption none
 
 	# Fake active wifi
